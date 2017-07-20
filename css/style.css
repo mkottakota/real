@@ -54,12 +54,12 @@ img {
 }
 .logo{
 	float:left;
-	width:25%;
-	height: 25%
+	width:20%;
+	height: 20%
 }
 .logo h2{
 	text-align:left;
-	font-size:40px;
+	font-size:30px;
 	color:#F22509;
 	letter-spacing:0px;
 }
@@ -1857,7 +1857,7 @@ section.contact-wthree button.btn.btn-primary {
     height: 311px!important;
 }
 .logo h2 {
-		font-size: 45px;
+		font-size: 35px;
 		}
 
 
@@ -1916,8 +1916,7 @@ section.contact-wthree ul.contact-info li {
     margin: 40px 0 0 0;
 }
 .logo {
-		margin-top: 5px;
-		width:25% 
+				width:25% 
 	}
 section.portfolio-agileinfo .nav-tabs > li:nth-child(1) {
     margin-left: 7em;
@@ -1936,7 +1935,7 @@ section.portfolio-agileinfo i.fa.fa-search-plus {
     height: 256px!important;
 }
 .logo h2 {
-		font-size: 42px;
+		font-size: 22px;
 	}
 section.banner-w3ls .banner-agileits h2 {
     font-size: 25px;
@@ -1971,8 +1970,8 @@ section.contact-wthree input#name, section.contact-wthree input#phone, section.c
 }
 .logo {
 		float: left;
-		width: 25%;
-		margin-top: 10px;
+		width: 20%;
+		
 	}
 section.banner-w3ls .banner-agileits h2 {
     font-size: 20px;
@@ -2053,11 +2052,11 @@ section.footer-wthree h3 {
     width: 325px;
 }
 .logo {
-		margin-top: 10px;
+	
 		width: 25%
 	}
 	.logo h2 {
-		font-size: 35px;
+		font-size: 25px;
 	}
 section.service-w3l h3 {
     font-size: 30px;
@@ -2231,8 +2230,8 @@ section.portfolio-agileinfo .nav-tabs > li > a {
 	right:15px;
 }
 .logo {
-		margin-top: 16px;
-		width: 25%;
+		
+		width: 20%;
 	}
 .logo h2 {
 		font-size: 28px;
