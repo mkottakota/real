@@ -54,7 +54,8 @@ img {
 }
 .logo{
 	float:left;
-	width:35%;
+	width:25%;
+	height: 25%
 }
 .logo h2{
 	text-align:left;
@@ -2053,7 +2054,7 @@ section.footer-wthree h3 {
 }
 .logo {
 		margin-top: 10px;
-		width: 40%
+		width: 25%
 	}
 	.logo h2 {
 		font-size: 35px;
