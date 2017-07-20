@@ -1916,6 +1916,7 @@ section.contact-wthree ul.contact-info li {
 }
 .logo {
 		margin-top: 5px;
+		width:25% 
 	}
 section.portfolio-agileinfo .nav-tabs > li:nth-child(1) {
     margin-left: 7em;
@@ -1969,7 +1970,7 @@ section.contact-wthree input#name, section.contact-wthree input#phone, section.c
 }
 .logo {
 		float: left;
-		width: 40%;
+		width: 25%;
 		margin-top: 10px;
 	}
 section.banner-w3ls .banner-agileits h2 {
@@ -2230,7 +2231,7 @@ section.portfolio-agileinfo .nav-tabs > li > a {
 }
 .logo {
 		margin-top: 16px;
-		width: 40%;
+		width: 25%;
 	}
 .logo h2 {
 		font-size: 28px;
