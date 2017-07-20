@@ -266,10 +266,12 @@ section.banner-w3ls .banner-agileits h2 {
     line-height: 55px;
     padding-bottom: 20px;
     color: #fff;
+    float: right;
     font-family: 'Nunito', sans-serif;
 }
 ul.social-icons1 {
 	list-style:none;
+	float: right;
 }
 ul.social-icons1 li {
 	display:inline-block;
